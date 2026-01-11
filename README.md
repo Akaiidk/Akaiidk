@@ -1,5 +1,5 @@
 # Salut ! Moi c'est Tom 👋
-### Étudiant en L3 Informatique | 20 ans | Futur Expert en Cybersécurité
+### Étudiant en L3 Informatique | 20 ans
 
 ---
 
