@@ -37,7 +37,10 @@ Currently a 3rd-year Computer Science student at **UFR MIM (Metz)**, I am passio
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akaiidk&layout=compact&theme=dark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akaiidk&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaiidk&layout=compact&theme=dark&hide_border=true" height="165"/>
+</p>
 
 ---
 
