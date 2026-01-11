@@ -7,7 +7,7 @@
 Actuellement en troisième année de Licence Informatique à l'**UFR MIM de Metz**, je suis passionné par la résolution de problèmes complexes et la sécurité des systèmes. À 20 ans, je développe mes compétences avec un focus particulier sur la **Cybersécurité et la Programmation système**.
 
 * 🔭 **Projets :** Projets académiques en cours à l'UFR MIM (Réseau, Systèmes d'exploitation).
-* 🎯 **Objectif :** Intégrer un Master en **Cybersécurité** à la rentrée 2026 et décrocher une **alternance**.
+* 🎯 **Objectif :** Intégrer un Master en **Cybersécurité** à la rentrée 2026
 
 ---
 
@@ -15,7 +15,7 @@ Actuellement en troisième année de Licence Informatique à l'**UFR MIM de Metz
 Currently a 3rd-year Computer Science student at **UFR MIM (Metz)**, I am passionate about solving complex problems and securing digital environments. I am constantly sharpening my skills, especially in **Cybersecurity and System Programming**.
 
 * 🔭 **Projects:** Currently working on academic projects (Networking, OS, Algorithms).
-* 🎯 **Goal:** Joining a Master’s degree in **Cybersecurity** and finding an **apprenticeship**.
+* 🎯 **Goal:** Joining a Master’s degree in **Cybersecurity** 
 
 ---
 
